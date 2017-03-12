@@ -1,4 +1,4 @@
-# CommonModel
+# Common Model
 All Credit goes to <a href="https://github.com/pakistanihaider"> Syed Haider Hassan #pakistanihaider @pakistanihaider </a>
 
 PHP Framework Codeigniter Common Model
