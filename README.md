@@ -14,7 +14,7 @@ Common Model is easy to use and can be extended.
 
 ## How To Use 
 Add the Common_model.php in model folder 
-add this line in your base controller or where you like to access DB best option is o add it into auto load.
+and add this line in your base controller or where you like to access DB best option is to add it into auto load.
 
 <code> $this->load->model("Common_model"); </code>
 
@@ -39,15 +39,15 @@ for full parameters of select_fields_where function see common model file
 select_fields_where($tbl = '', $data, $where, $single = FALSE, $like = '', $field = '', $value = '',$group_by = '',$order_by = '',$array = false)
 
 
-# Insert Record
+## Insert Record
 <code> $this->Common_model->insert_record($tbl, $data); </code> 
 
 
-# Update
+## Update
 <code> $this->Common_model->update($tbl, $where, $data) </code> 
 
 
-# Delete
+## Delete
 <code> $this->Common_model->delete($table , $where=NULL) </code> 
 
 
