@@ -1,5 +1,5 @@
 # CommonModel
-All Credit Goes to <a href="https://github.com/pakistanihaider"> Syed Haider Hassan #pakistanihaider @pakistanihaider </a>
+All Credit goes to <a href="https://github.com/pakistanihaider"> Syed Haider Hassan #pakistanihaider @pakistanihaider </a>
 
 PHP Framework Codeigniter Common Model
 This Model is developed to use CodeIgniter CRUD functions to remove repetition and increase productivity as well as DRY ( Don't Repeat YourSelf ) Approach .
@@ -8,7 +8,7 @@ If you are fade up with use of this DB
 
 <code> $this->DB... </code>
 
-Use Common Model once  . you will never to this->db again. 
+Use Common Model once  . you will never do this->db again. 
 Common Model is easy to use and can be extended.
 
 
